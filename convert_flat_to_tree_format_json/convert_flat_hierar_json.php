@@ -9,12 +9,12 @@ foreach($input_data as $k=> $v){
 	$parent_id = $v->parent;
 	$id = $v->id;
 	
-	// creating childern array which belongs to same parent id
+	// creating children array which belongs to same parent id
 	if(!in_array($parent_id,$parent) && $parent_id!=0){
-		if (isset($parent[$parent_id]) && is_array($parent[$parent_id]['childern'])) {
-			array_push($parent[$parent_id]['childern'],$v); 
+		if (isset($parent[$parent_id]) && is_array($parent[$parent_id]['children'])) {
+			array_push($parent[$parent_id]['children'],$v); 
 		}else{
-			$parent[$parent_id]['childern'] = array($v);	
+			$parent[$parent_id]['children'] = array($v);	
 		}		
 	}
 	
