@@ -1,4 +1,4 @@
-<h1 align="center" style=">Login System using Laravel Framework</h1>
+## Login System using Laravel Framework
 
 
 # Functionality
