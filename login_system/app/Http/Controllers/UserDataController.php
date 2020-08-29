@@ -17,21 +17,6 @@ class UserDataController extends Controller
         return json_encode(array('data'=>$userData));
     }
 
-    public function create()
-    {
-        return view('userData.create');
-    }
-
-    public function store(Request $request)
-    {
-        $request->validate([
-            'name' => 'required',
-            'email' => 'required',
-        ]);
-        UserData::create($request->all());
-        return json_encode(array(
-            "statusCode"=>200
-        ));
-    }
+    
 
 }
