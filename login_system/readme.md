@@ -1,4 +1,4 @@
-<p align="center">## Login System Project <img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center">## Login System Project</p>
 
 
 # Functionality
@@ -9,6 +9,8 @@
 2: Create a new project for a website to pull data using ajax call for the html/css page. Sample pages contain 2 - 3 values as well as a login option for users. 
 
 # Database File
+
+Import database with below sql file.
 
 <b>path:</b> login_system/login_system.sql
 
