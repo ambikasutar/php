@@ -3,7 +3,7 @@
 
 ## Functionality
 
-1: create a basic admin panel in laravel using dummy data. Send us the admin panel chosen and set up by you.
+1: Create a basic admin panel in laravel using dummy data. Send us the admin panel chosen and set up by you.
 
 
 2: Create a new project for a website to pull data using ajax call for the html/css page. Sample pages contain 2 - 3 values as well as a login option for users. 
