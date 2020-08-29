@@ -1,20 +1,20 @@
-## Login System using Laravel Framework
+# Login System using Laravel Framework
 
 
-# Functionality
+## Functionality
 
 1: create a basic admin panel in laravel using dummy data. Send us the admin panel chosen and set up by you.
 
 
 2: Create a new project for a website to pull data using ajax call for the html/css page. Sample pages contain 2 - 3 values as well as a login option for users. 
 
-# Database File
+## Database File
 
 Import database with below sql file.
 
 <b>path:</b> login_system/login_system.sql
 
-# Run Project
+## Run Project
 
 1. Go to the login system folder then run Command "php artisan serve"
 
