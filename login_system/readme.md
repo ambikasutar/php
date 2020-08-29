@@ -1,4 +1,4 @@
-<p align="center">## Login System Project</p>
+<h1 align="center" style=">Login System using Laravel Framework</h1>
 
 
 # Functionality
