@@ -7,6 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Login System Project
+
+
+# Functionality
+
+1: create a basic admin panel in laravel using dummy data. Send us the admin panel chosen and set up by you.
+2: Create a new project for a website to pull data using ajax call for the html/css page. Sample pages contain 2 - 3 values as well as a login option for users. 
+
+# Database File
+
+<b>path:</b> login_system/login_system.sql
+
+# Run Project
+
+1. Go to the login system folder then run Command "php artisan serve"
+2. Web url "http://127.0.0.1:8000/"
+3. Login with user email id and password. Username is 'test@gmail.com' and password is 'login_system@123'
+4. After login all user data is listed. 
+5. User can logout by clicking on logout button.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
